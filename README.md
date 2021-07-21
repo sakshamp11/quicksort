@@ -1,3 +1,6 @@
+#include <iostream>
+using namespace std;
+
 void swap(int arr[],int i,int j)
 {
     int t=arr[i];
